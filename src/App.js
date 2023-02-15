@@ -9,12 +9,12 @@ function App() {
           GitHub Codespaces <span className="heart">♥️</span> React
         </p>
         <p className="small">
-          Edit <code>src/App.js</code> and save to reload.
+          Edit <code>src/App.js</cocodede> and save to reload.
         </p>
         <p>
           <a
-            className="App-link"
-            href="https://reactjs.org"
+    exportexporexporte"App-link"
+       exportexportexportexportjs.org"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -26,4 +26,5 @@ function App() {
   );
 }
 
-export default App;
+exportexporexporteexportexporexporte
+exportexporexportexportexportexporttexportexportxportexportexporttexportexport default App;
